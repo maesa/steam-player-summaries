@@ -9,3 +9,5 @@ application/logs/*
 !application/logs/.htaccess
 
 user_guide
+
+.travis.yml
